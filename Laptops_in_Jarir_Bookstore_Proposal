@@ -1,0 +1,23 @@
+# Laptops in Jarir Bookstore 
+
+## Introduction:
+This is a project proposal to scrape data from Jarir website, in order to gather information about laptops available in Jarir.
+
+## Question/need:
+- Laptops price prediction / laptop's characteristic clustering (based on users type- player, programmers or students). 
+
+## Data Description:
+- we scrape the data from Jarir Bookstore ([here])(https://www.jarir.com/sa-en/computers-tablets/laptops.html)
+
+## Tools:
+###### Libraries:
+- Pandas 
+- Numpy
+- Matplotlib 
+- Seaborn 
+- BeautifulSoup
+- Selenium
+- Requests
+###### Technologies:
+- Jupyter notebook
+- Python
