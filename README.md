@@ -18,3 +18,5 @@ It can be used in many areas, including: Stock-market prediction, demand forecas
 Regression: Predict the real-valued output for each individual, based on input data.
 
 
+**Presented by:**
+Annal Ali & Aesha Bakheet Aljohani
