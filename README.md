@@ -1,6 +1,10 @@
 # Laptop Price Prediction by Regression Models
 ### T5 boot camp project  
-#### Presented by: Aesha Bakheet Aljohani & Annal Albeeshi
+#### Presented by: 
+#### 1- Aesha Bakheet Aljohani
+#### 2- Annal Albeeshi
+
+
 
 The **(COVID19)** pandemic came to consolidate the concept of the importance of technology, including computers, laptops, tablets and mobile phones of all kinds; One of the most important changes that resulted from the pandemic for nearly two years is the change in the method of education, which has become and is still online.
 As people’s awareness of acquiring devices has become great in terms of the importance of specifications, and we are witnessing in this period from March 16, 2020 to the present time, where every home has 2 to 4 computers or tablets, because of its importance in following virtual classes, work and transactions government and others.
